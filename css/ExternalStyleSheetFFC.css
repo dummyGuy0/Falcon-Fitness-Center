@@ -1,0 +1,150 @@
+body {
+		background-color: #003566; 
+		color: white; 
+		font-family: Arial, serif;
+		font-size: 11pt;
+		text-align: center;
+		
+		}
+		
+		
+		
+
+h1 {
+		background-color: #FFD60A; 
+		color: #003566;
+		font-weight: 1000;
+		font-style: oblique;
+		text-align: center;
+		
+		}
+header {
+		
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		
+}
+		
+		
+		
+		
+p 	{
+		border: solid 10px white;
+		padding: 17px;
+		margin: 10px;
+		border-style: groove;
+		border-width: 12px;
+		border-color:  #FFD60A;
+		border-bottom-color: ;
+		border-left-color: ;
+		border-top-color: ;
+		border-right-color: ;
+		border-radius: 20px;
+		box-shadow: ;
+		border-left-width: ;
+	
+	}
+table 	{
+		border: solid 10px white;
+		padding: 17px;
+		margin: 10px;
+		border-style: groove;
+		border-width: 12px;
+		border-color:  #FFD60A;
+		border-bottom-color: ;
+		border-left-color: ;
+		border-top-color: ;
+		border-right-color: ;
+		border-radius: 20px;
+		box-shadow: ;
+		border-left-width: ;
+	
+	}
+	
+
+ul 	{
+	
+	display:inline-block;
+	border: solid 1px black;
+	padding: 17px;
+	margin: 10px;
+	border-style: groove;
+	border-width:12px;
+	border-color: #FFD60A;
+	border-bottom-color: ;
+	border-left-color: ;
+	border-top-color: ;
+	border-right-color:;
+	border-radius: 20px;
+	text-align: left;
+	
+	}
+	
+nav {
+	position: absolute;
+	right: 70px;
+	
+	
+	}
+
+nav ul {
+		text-align: center;
+		border: none;
+		background-color: #0084ff20;
+
+		}
+		
+nav ul li {
+	list-style: none;
+	display: inline-block;
+
+		
+		}
+nav ul li a {
+	display: block;
+	color: #FF7D00;
+	font-size: 20px;
+	letter-spacing: 2px;
+	font-weight: 550;
+	padding: 25px;
+	text-decoration: none;
+		}
+		
+nav ul li a:hover {
+		background-color: #004f9980;
+		transition: all ease 1.5s;
+		}
+	
+	
+.container1 {
+			
+			margin-left: auto;
+			margin-right: auto;
+			/*max-width: 100%;
+			max-height:100%;*/
+			}
+
+.container2 {
+			
+			display:flex;
+				}
+				
+.container3 {
+			
+			text-align: center
+			
+			}
+
+
+
+
+
+
+
+<div class="landingBoxMusic">
+		Music Interests
+		<a href="music.html">
+			<span class="link"> </span>
+		</a>
+	</div>
